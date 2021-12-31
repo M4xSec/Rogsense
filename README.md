@@ -2,7 +2,7 @@
 <h4 align="center">Asus ROG RGB Controller</h4>
 
 # ScreenShots👨🏼‍💻
-![Screenshot_20210604_104323](https://user-images.githubusercontent.com/57313495/121186067-ee28e480-c823-11eb-940d-f159c5f7d03f.png)
+![rog](https://user-images.githubusercontent.com/57313495/147828663-7f5d3add-f2c8-4b39-bb56-17c4002b87a7.png)
 
 
 # INSTALLATION [ KALI ]🔥🔥🔥
